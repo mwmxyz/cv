@@ -1,15 +1,15 @@
 details:
-  name: Michael W. Merriam
-  uni: University of Central Florida
-  dept: Text & Technologies
-  place: Orlando, FL, United States
-  email: michael.merriam@ucf.edu
-  phone: +1 917 455 1420
+  name: John Doe
+  uni: Harvard University
+  dept: Dept. of Informatics
+  place: Cambridge, MA, United States
+  email: dev@johndoe.com
+  phone: +30 123 456 7890
   github: 
-    name: "@mwmxyz"
+    name: "@johndoe"
     url: "#"
   linkedin:
-    name: "Michael Merriam"
+    name: "John Doe"
     url: "#"
   portfolio:
     name: "Portfolio"
